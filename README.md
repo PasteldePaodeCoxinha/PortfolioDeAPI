@@ -36,7 +36,7 @@ Para realização do Back-end foram utilizadas:
 
 Para realização do Banco de dados foram utilizadas:
 
-* MySQL para o armazenamento
+* MySQL para fazer o modelo físico do banco de dados
 
 ### Contribuições pessoais
 
@@ -79,7 +79,7 @@ Para realização do Back-end foram utilizadas:
 
 Para realização do Banco de dados foram utilizadas:
 
-* MySQL para o armazenamento
+* MySQL para fazer o modelo físico do banco de dados
 
 ### Contribuições pessoais
 
@@ -93,4 +93,49 @@ Minhas contribuições no projeto foram na parte de banco de dados, fiz os model
 ### Soft Skills
 
 * Planejamento: Melhorei muito as minhas habilidades de planejamento, pois tive que planejar um BD que durasse o projeto inteiro no começo do semestre.
-* Adaptação: Melhorei muito as minhas habilidades de autonomia, pois tive que, em caso de mudança repentina no BD, alterar o BD o mais rápido possível para não ter atrasos.
+* Adaptação: Melhorei muito as minhas habilidades de adaptação, pois tive que, em caso de mudança repentina no BD, alterar o BD o mais rápido possível para não ter atrasos.
+
+## [CTRL A](https://github.com/equipe-javali/API_3): 2024-1
+
+
+https://github.com/PasteldePaodeCoxinha/PortifolioDeAPI/assets/110677265/dc3a4a81-decf-416b-aa54-78578f20150b
+
+
+### Parceiro Acadêmico
+
+YOUTAN
+
+### Visão do projeto
+
+O projeto visa facilitar o manuseio dos ativos de uma empresa, sendo acompanhar quem atualmente possui o ativo, acompanhar manutenções do ativo, entre outros.
+
+### Tecnologias adotadas na solução
+
+Para realização do Front-end foram utilizadas:
+
+* React para realização da aparência do site
+
+Para realização do Back-end foram utilizadas:
+
+* Java como linguagem back-end principal
+* Spring para conexão com o banco de dados
+
+Para realização do Banco de dados foram utilizadas:
+
+* PostgreSQL para fazer o modelo físico do banco de dados
+* Supabase como banco de dados online
+
+### Contribuições pessoais
+
+Minhas contribuições no projeto foram na parte de Scrum Master, como também no back-end
+
+### Hard Skills
+
+* CRUD completo: sei fazer com autonomia
+* Spring: Sei fazer com autonomia
+* Criptografia básica de senhas: Sei fazer com autonomia
+
+### Soft Skills
+
+* Organização: Melhorei muito as minhas habilidades de organização, pois tive que organizar os repositórios e documentações do projeto.
+* Adaptação: Melhorei mais ainda as minhas habilidades de adaptação, pois durante o projeto ocorreram vários erros com o banco online e o site que usamos para distribuição de tarefas, assim tive que corrigir e me adaptar a esses erros.

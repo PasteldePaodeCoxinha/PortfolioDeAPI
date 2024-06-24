@@ -83,7 +83,7 @@ Para realização do Banco de dados foram utilizadas:
 
 ### Contribuições pessoais
 
-Minhas contribuições no projeto foram na parte de banco de dados, fiz o modelo conceitual, lógico e fisíco, como a programação do SQL, fiz também alterações no banco de acordo com as necessicidades do projeto. Fiz no back-end rotas que possuiam Selects complicados no banco de dados.
+Minhas contribuições no projeto foram na parte de banco de dados, fiz o modelo conceitual, lógico e fisíco, como a programação em SQL, fiz também alterações no banco de acordo com as necessicidades do projeto. Fiz no back-end rotas que possuiam Selects complicados no banco de dados.
 
 ### Hard Skills
 

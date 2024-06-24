@@ -40,7 +40,7 @@ Para realização do Banco de dados foram utilizadas:
 
 ### Contribuições pessoais
 
-Minhas contribuições no projeto foram como Product Owner (P.O.), onde conversei e confirmei os requisitos do projeto com o parceiro acadêmico.
+Minhas contribuições no projeto foram como Product Owner (P.O.), onde conversei e confirmei os requisitos do projeto com o parceiro acadêmico, fiz o product backlog, trouxe dúvidas do dev team para o cliente e conversei sobre, ajudei na pesquisa de dados no site do DATASUS TABNET para a convereter em tabelas.
 
 ### Hard Skills
 
@@ -83,7 +83,7 @@ Para realização do Banco de dados foram utilizadas:
 
 ### Contribuições pessoais
 
-Minhas contribuições no projeto foram na parte de banco de dados, fiz os modelos como a programação do SQL.
+Minhas contribuições no projeto foram na parte de banco de dados, fiz o modelo conceitual, lógico e fisíco, como a programação do SQL, fiz também alterações no banco de acordo com as necessicidades do projeto. Fiz no back-end rotas que possuiam Selects complicados no banco de dados.
 
 ### Hard Skills
 
@@ -127,7 +127,7 @@ Para realização do Banco de dados foram utilizadas:
 
 ### Contribuições pessoais
 
-Minhas contribuições no projeto foram na parte de Scrum Master, como também no back-end
+Minhas contribuições no projeto foram na parte de Scrum Master, como também no back-end. Fiz as tarefas e ajudei a distribui-las, organizei reuniões para responder dúvidas e erros do dev team e parte da documentação no github. No back-end fiz a criptografia básica das senhas dos usuários, a lógica da funcionalidade do esqueci minha senha e fiz a autorização de autenticação das rotas.
 
 ### Hard Skills
 

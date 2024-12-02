@@ -8,6 +8,28 @@ Portifólio feito para a apresentação dos projetos acadêmicos realizados dura
 
 Atualmente estou no 3º semestre, apredendo com o projeto API, superando dificuldades para que eu possa aprender mais.
 
+## Contatos
+* [GIT](https://github.com/PasteldePaodeCoxinha)
+* [LinkedIn](https://www.linkedin.com/in/caiquepastelsilva/)
+* [E-mail](mailto:caiquepericles.23@gmail.com)
+
+## Meus Principais Conhecimentos
+
+Tenho amplo conhecimento em desenvolvimento back-end e front-end, com preferência em desenvolvimento back-end. Tenho conhecimento notável nas seguintes tecnologias:
+* Python
+* Rust
+* Typescript/Javascript
+* Java
+* Spring Framework
+* PHP
+* Laravel
+* SQL
+* Postgresql
+* Cassandra
+* SQL
+* HTML
+* CSS
+
 ## [CICOVALE](https://github.com/equipedevo/API_1): 2023-1
 
 ![Site_final](https://github.com/PasteldePaodeCoxinha/PortifolioDeAPI/assets/110677265/217e3cbf-23c2-4054-8d39-85a11f296422)

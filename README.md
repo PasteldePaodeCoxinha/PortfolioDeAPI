@@ -1,12 +1,12 @@
-# Caique Péricles Silva
+# Introdução
 
 ![eu2](https://github.com/PasteldePaodeCoxinha/PortifolioDeAPI/assets/110677265/10135b35-9708-4b6c-ab09-bddbe957de04)
 
-## Introdução
+Nome: Caique Péricles Silva
 
-Portifólio feito para a apresentação dos projetos acadêmicos realizados durante o curso do Desenvolvimento de Software Multiplataforma na FATEC de São José dos Campos.
+Formação: 5º Semestre, Desenvolvimento de Software Multiplataforma, Fatec
 
-Atualmente estou no 3º semestre, apredendo com o projeto API, superando dificuldades para que eu possa aprender mais.
+Objetivo: Estudande que gosta de programação querendo se especializar em desenvolvimento de jogos, mas que também gosta de programar sites e aplicações.
 
 ## Contatos
 * [GIT](https://github.com/PasteldePaodeCoxinha)
